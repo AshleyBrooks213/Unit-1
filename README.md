@@ -1,5 +1,8 @@
 # Unit-1
 A collection of Guided Projects, Notes, and assignments from Unit 1.
+Statistcs Cheet Sheet for all areas of study:
+
+https://medium.com/analytics-vidhya/data-science-cheat-sheets-109ddcb1aca8
 
 # Guided Project Colab Notebook Links:
 Unit-1-Sprint-1-Mod-2-Newest Guided Project(DSPT12):
