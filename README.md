@@ -14,6 +14,8 @@ https://colab.research.google.com/drive/1lMHLuVDY03_c_pwpUAoanrrkZPJBq9FJ?usp=sh
 # Assignment Colab Notebook Links:
 Unit-1-Mod-2-Newest Assignment(DSPT12):
 https://colab.research.google.com/drive/1MDa7D27UAATgkWbIT7sQEvhl3lfQpjDM?usp=sharing
+https://github.com/ragerdude/DS-Unit-1-Sprint-2-Statistics/blob/master/module2-hypothesis-chi-square/LS_DS_122_Chi2_Tests_Assignment_AG.ipynb
+
 
 # Sprint Challenge Notebook Link:
 
