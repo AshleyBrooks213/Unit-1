@@ -18,12 +18,23 @@ Use this one for helping students (updated):
 https://colab.research.google.com/drive/1B9hFZ0B-vcU-H4Meq0X_rL9gktUNSbfn?usp=sharing
 
 # Assignment Colab Notebook Links:
-Unit-1-Mod-2-Newest Assignment(DSPT12):
+Unit-1-Sprint-1-Mod-2-:
+
+DS26 Assignment: 
+
+https://colab.research.google.com/drive/1PMhoQ9aIUdq7BxEJjx4XdA-ReZ_m4Ixb?usp=sharing
+
+Unit-1-Sprint-2-Mod-2-Newest Assignment(DSPT12):
+
 https://colab.research.google.com/drive/1MDa7D27UAATgkWbIT7sQEvhl3lfQpjDM?usp=sharing
 https://github.com/ragerdude/DS-Unit-1-Sprint-2-Statistics/blob/master/module2-hypothesis-chi-square/LS_DS_122_Chi2_Tests_Assignment_AG.ipynb
 
 
 # Sprint Challenge Notebook Link:
+Unit-1-Sprint-2-Challenge:
+
+https://colab.research.google.com/drive/1mIkj2T27mpdWER9YCJN5CnxbpHxESh98#scrollTo=9KvX4A-PHC5_
+
 
 
 # Other Important or Helpful Links:
