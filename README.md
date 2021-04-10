@@ -35,6 +35,9 @@ Unit-1-Sprint-3-Mod-1-DS21: https://colab.research.google.com/drive/1MB_Any2t1tN
 
 Unit-1-Sprint-3-Mod-2-DS21: https://colab.research.google.com/drive/18OIrUAhk7Hs0xMXJZsVWIOQYVF-7V39C?usp=sharing
 
+- This is the up-to-date assignment from DSPT12, but not all correct.
+https://colab.research.google.com/drive/10MXJaDkPyg_wRjAQZrPiBgC71ubbCiOM?usp=sharing
+
 Unit-1-Sprint-3-Mod-3-DS21: https://colab.research.google.com/drive/1HUn8ywkUbopINFwD7Sbgvoh5GPvjCO6X?usp=sharing
 
 Unit-1-Sprint-3-Mod-4-DS21: https://colab.research.google.com/drive/19eCxoK6pLH-ZGkKWLtQcwYR1lvmYcquj?usp=sharing
